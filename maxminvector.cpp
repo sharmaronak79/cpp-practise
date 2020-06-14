@@ -19,7 +19,7 @@ int main()
     cout << endl; 
   
     // Find the min element 
-    cout << "\nMin Element = "
+    cout << "\nMin element = "
          << *min_element(a.begin(), a.end()); 
   
     // Find the max element 
