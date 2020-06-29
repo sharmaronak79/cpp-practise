@@ -11,7 +11,7 @@ for(int i=0;i<5;i++)
 
 for(int i=0;i<5;i++)
 {
-    cout<<"address of arr["<<i<<"]"<<"="<<&arr[i]<<endl;
+    cout<<"Address of arr["<<i<<"]"<<"="<<&arr[i]<<endl;
 }
 
     return 0;
