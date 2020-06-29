@@ -6,7 +6,7 @@ class Course
     public:
     void displayname(string name)
     {
-        cout<<" wel come to the "<<name<<" course"<<endl;
+        cout<<" wel Come to the "<<name<<" course"<<endl;
     }
     void displaysem(int sem)
     {
