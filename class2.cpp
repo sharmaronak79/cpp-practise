@@ -25,7 +25,7 @@ class Vehicle
         cout<<"welcome to autoworld of "<<getcarname()<<endl;
     
     cout<< "it has  "<< getcarcolor()<<" color "<<endl; 
-    cout<< "it has maximum speed of "<< getcarspeed()<<" km/h"<<endl;
+    cout<< "it has Maximum speed of "<< getcarspeed()<<" km/h"<<endl;
      }
 
    private:
