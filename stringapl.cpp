@@ -26,7 +26,7 @@ bool containsOnlyDigit(string str)
     return true; 
 } 
   
-// this function replaces all single space by %20 
+// this function  replaces all single space by %20 
 // Used in URLS 
 string replaceBlankWith20(string str) 
 { 
