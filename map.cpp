@@ -17,7 +17,7 @@ int main()
 {
     map<int,string> my_map;
     
-    my_map[1]="ronak";
+    my_map[1]="rOnak";
     my_map[2]="hardik";
     my_map[3]="ankur";
     my_map[4]="harshik";
