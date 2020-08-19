@@ -23,7 +23,7 @@ int main()
     cout<<"welcome to the lambton college"<<endl;
     cout<<"which course u want to study?"<<endl;
     cin>>n;
-    cout<<"howmany semesters u want?"<<endl;
+    cout<<"howmany sEmesters u want?"<<endl;
     cin>>s;
     co.displayname(n);
     co.displaysem(s);
