@@ -41,7 +41,7 @@ int main()
     int speedofcar;
     Vehicle car;
 
-    cout<< "initial vehicle is : " <<car.getcarname()<<endl;
+    cout<< "Initial vehicle is : " <<car.getcarname()<<endl;
 
     cout<< "\n enter the car name : " << endl;
     getline(cin,nameofcar);
