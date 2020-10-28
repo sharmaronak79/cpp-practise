@@ -18,7 +18,7 @@ void printList(list<int> my_list)
 int main()
 {
     list<int>my_list ={2,5,4,1,3,6,8,7};
-    cout<<"your entered list without sorting = "<<endl;
+    cout<<"your Entered list without sorting = "<<endl;
     
     printList(my_list);
     cout<<endl;
