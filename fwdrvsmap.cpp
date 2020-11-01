@@ -15,7 +15,7 @@ int main()
 
    // 1) Assignment using array index notation
 
-   Employees[5234] = "harsh";
+   Employees[5234] = "Harsh";
 
    Employees[3374] = "parth";
 
