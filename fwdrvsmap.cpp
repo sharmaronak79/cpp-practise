@@ -21,7 +21,7 @@ int main()
 
    Employees[1923] = "ankit.";
 
-   Employees[7582] = "ronak";
+   Employees[7582] = "Ronak";
 
    Employees[5328] = "hiten";
 
