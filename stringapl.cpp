@@ -46,7 +46,7 @@ string replaceBlankWith20(string str)
 int main() 
 { 
     string fnum = "23.342"; 
-    cout << "Floating part is : " << returnFloatingPart(fnum)  
+    cout << "Floating Part is : " << returnFloatingPart(fnum)  
          << endl; 
   
     string num = "3452"; 
