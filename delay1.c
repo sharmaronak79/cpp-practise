@@ -9,7 +9,7 @@ int main()
     unsigned int n,i,s;
     printf("enter up to Howmany number you want to print : \n");
     scanf("%d",&n);
-    printf("howmany seconds of interval you want : ");
+    printf("Howmany seconds of interval you want : ");
     scanf("%d",&s);
     for(i=1;i<=n;i++)
     {
