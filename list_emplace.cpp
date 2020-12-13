@@ -16,7 +16,7 @@ int main()
      for(int i=10; i<=50; i+=10)
     gqlist.emplace_front(i);
 
-    cout<<"list after emplance_front operation is :";
+    cout<<"list After emplance_front operation is :";
     for(int &x : gqlist) cout<< x <<" ";
     cout<< endl;
 
