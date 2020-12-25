@@ -6,7 +6,7 @@ private:
     int x, y; 
   
 public: 
-    // Parameterized Constructor 
+    // Parameterized  Constructor 
     Point(int x1, int y1) 
     { 
         x = x1; 
