@@ -13,7 +13,7 @@ int main()
 
    map<int, string> Employees;
 
-   // 1) Assignment using array index notation
+   // 1) Assignment using  array index notation
 
    Employees[5234] = "Harsh";
 
