@@ -7,7 +7,7 @@
 //#define NUM_THREADS 7
 
 // Thread safe random numbers by tempering the upper 32 bits
-// of a 64 bit int.  The calculations are based on a seed.
+// of a 64 bit int. The calculations are based on a seed.
 //
 // Create a single seed per thread and use that for every call 
 // lcg64_temper.
