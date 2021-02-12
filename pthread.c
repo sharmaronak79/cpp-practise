@@ -3,7 +3,7 @@
 #include <unistd.h>  //Header file for sleep(). man 3 sleep for details. 
 #include <pthread.h> 
   
-// A normal C function that is executed as a thread  
+// A normal C function that  is executed as a thread  
 // when its name is specified in pthread_create() 
 void *myThreadFun(void *vargp) 
 { 
