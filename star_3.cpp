@@ -5,7 +5,7 @@ int main()
 {
     int i , j , row;
 
-    cout <<"enter the numbers of rows : "<<endl;
+    cout <<"enter the numbers of rows  : "<<endl;
     cin >> row;
 
     for(i=1;i<=row;i++)
