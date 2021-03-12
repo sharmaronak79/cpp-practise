@@ -14,7 +14,7 @@ int main()
       for(space = i; space < rows; space++)
          cout << " ";
       //for loop for displaying star
-      for(j = 1; j <= (2 * i - 1); j++)
+      for(j = 1; j <= ( 2 * i - 1); j++)
          cout << "* ";
 
       cout << "\n";
