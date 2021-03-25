@@ -3,7 +3,7 @@
 using namespace std;
 
 int main(){
-    string pass = "password";
+    string pass = "password ";
     string input;
     string key;
     cout << "What is your password: " << endl;
