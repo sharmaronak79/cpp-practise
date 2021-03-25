@@ -8,7 +8,7 @@ int main(){
     string key;
     cout << "What is your password: " << endl;
     cin >> input;
-    cout<<"unlock key? : " << endl;
+    cout<<"unlock key? :  " << endl;
     cin>>key;
     if (input==key){
         cout << "Correct" << endl;
