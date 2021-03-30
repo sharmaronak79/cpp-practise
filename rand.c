@@ -31,7 +31,7 @@ int32_t lcg64_temper(uint64_t *seed)
 int threadFunction(void* data)
 {
 	int32_t id = *(int32_t*)data;
-	printf("%d-th thread up\n", id);
+	printf("%d-th thread  up\n", id);
 
 	uint64_t threadSeed = time(NULL) ^ id;
 
