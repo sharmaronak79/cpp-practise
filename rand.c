@@ -25,7 +25,8 @@ static int32_t temper(int32_t x)
 int32_t lcg64_temper(uint64_t *seed)
 {
 	*seed = 6364136223846793005ULL * *seed + 1;
-	return temper(*seed >> 32);
+	
+return temper(*seed >> 32);
 }
 
 int threadFunction(void* data)
