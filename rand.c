@@ -39,5 +39,6 @@ int threadFunction(void* data)
 	thrd_sleep(&(struct timespec){ .tv_sec = n }, NULL); // Sleep for a random number of seconds.
 
 	printf("%d-th thread done\n", id);
+
 	return 0;
 }
