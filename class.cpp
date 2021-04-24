@@ -20,7 +20,7 @@ int main()
     Course co;
     string n;
     int s;
-    cout<<"welcome to the Lambton college"<<endl;
+    cout<<"welcome to the Lambton college "<<endl;
     cout<<"which course u want to study?"<<endl;
     cin>>n;
     cout<<"howmany sEmesters u want?"<<endl;
