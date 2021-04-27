@@ -25,7 +25,7 @@ public:
   
 int main() 
 { 
-    // Constructor called 
+    // Constructor called  
     Point p1(10, 15); 
   
     // Access values assigned by constructor 
