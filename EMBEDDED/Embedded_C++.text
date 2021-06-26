@@ -4,3 +4,7 @@ When we talk about embedded systems programming, in general, it's about writing 
 Gadget with a brain is the embedded system. Whether the brain is a microcontroller or a digital signal processor (DSP), 
 gadgets have some interactions between hardware and software designed to perform one or a few dedicated functions, 
 often with real-time computing constraints.
+
+Usually, embedded systems are resource constrained compared to the desktop PC. 
+Embedded systems, typically, have limited memory, small or no hard drives, and in some cases with no external network connectivity.
+
