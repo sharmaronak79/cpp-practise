@@ -1,2 +1,6 @@
 Embedded Systems
 When we talk about embedded systems programming, in general, it's about writing programs for gadgets.
+
+Gadget with a brain is the embedded system. Whether the brain is a microcontroller or a digital signal processor (DSP), 
+gadgets have some interactions between hardware and software designed to perform one or a few dedicated functions, 
+often with real-time computing constraints.
