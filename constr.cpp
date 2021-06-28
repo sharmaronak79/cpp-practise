@@ -29,7 +29,7 @@ int main()
     // Constructor called  
     Point p1(10, 15); 
   
-    // Access values assigned by constructor 
+    // Access values assigned by  constructor 
     cout << "p1.x  =  " << p1.getX() << ", p1.y = " << p1.getY(); 
   
     return 0; 
