@@ -17,6 +17,7 @@ class Course
 
 int main()
 {
+
     Course co;
     string n;
     int s;
