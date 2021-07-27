@@ -10,3 +10,25 @@ that can interact with each other,
  this makes it easier to develop programs 
 in OOP as we can understand the relationship 
 between them.
+
+Class and Objects
+
+A class is like a blueprint of data 
+member and functions and object is 
+an instance of class. For example,
+ lets say we have a class Car which 
+has data members (variables) such 
+as speed, weight, price and 
+functions such as gearChange(), 
+slowDown(), brake() etc. 
+Now lets say I create a object of 
+this class named FordFigo which 
+uses these data members and functions 
+and give them its own values. 
+Similarly we can create as many 
+objects as we want using the 
+blueprint(class).
+
+
+
+
