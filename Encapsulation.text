@@ -1,0 +1,13 @@
+Encapsulation
+
+Encapsulation is a process of combining 
+data and function into a single unit 
+like capsule. This is to avoid the 
+access of private data members from 
+outside the class. To achieve 
+encapsulation, we make all data 
+members of class private and create 
+public functions, using them we can 
+get the values from these data 
+members or set the value to these 
+data members.
