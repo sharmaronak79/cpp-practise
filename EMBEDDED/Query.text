@@ -11,7 +11,7 @@ int what(int a, int b)
 }
 
 int main() {
-	std::cout << what(10, 2) << std::endl;
+	std::cout << what(10, 12) << std::endl;
 	return 0;
 }
   
