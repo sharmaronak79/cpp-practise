@@ -15,7 +15,7 @@ int main()
 
 MyClass cl;
 cl.fun();
-cl.x=5;
+cl.x=50;
 cl.y=10;
 cout<<"x="<<cl.x<<"\n";
 cout<<"y="<<cl.y<<"\n";
