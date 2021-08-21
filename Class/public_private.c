@@ -8,6 +8,7 @@ class MyClass {
     int y;   // Private attribute
 };
 
+
 int main() {
   MyClass myObj;
   myObj.x = 25;  // Allowed (x is public)
