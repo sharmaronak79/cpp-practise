@@ -1,0 +1,11 @@
+
+C++ Identifiers
+All C++ variables must be identified 
+with unique names.
+
+These unique names are called 
+identifiers.
+
+Identifiers can be short names 
+(like x and y) or more descriptive 
+names (age, sum, totalVolume).
