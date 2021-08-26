@@ -9,3 +9,15 @@ only six or seven decimal digits,
 precision of about 15 digits. 
 Therefore it is safer to use 
 double for most calculations.
+
+
+Scientific Numbers
+A floating point number can 
+also be a scientific number with 
+an "e" to indicate the power of 10:
+
+Example
+float f1 = 35e3;
+double d1 = 12E4;
+cout << f1;
+cout << d1;
