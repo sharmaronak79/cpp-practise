@@ -3,7 +3,8 @@
 #include<string> 
 using namespace std; 
   
-// this function returns floating point part of a number-string 
+// this function returns floating point 
+part of a number-string 
 string returnFloatingPart(string str) 
 { 
     int pos = str.find("."); 
