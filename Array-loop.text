@@ -1,0 +1,12 @@
+
+Loop Through an Array
+You can loop through the array 
+elements with the for loop.
+
+The following example outputs all elements in the cars array:
+
+Example
+string cars[4] = {"Volvo", "BMW", "Ford", "Mazda"};
+for(int i = 0; i < 4; i++) {
+  cout << cars[i] << "\n";
+}
