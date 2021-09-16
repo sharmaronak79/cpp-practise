@@ -2,6 +2,7 @@ Abstraction
 
 Abstraction is a process of hiding
  irrelevant details from user. 
+
 For example, When you send an sms 
 you just type the message, select 
 the contact and click send, 
