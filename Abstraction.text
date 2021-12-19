@@ -11,3 +11,15 @@ has been sent, what actually happens
 in background when you click send is 
 hidden from 
 you as it is not relevant to you.
+
+
+
+C++ Programming Default Arguments (Parameters)
+In this tutorial, we will learn C++ default arguments and their working with the help of examples.
+
+In C++ programming, we can provide default values for function parameters.
+
+If a function with default arguments is called without passing arguments, then the default parameters are used.
+
+However, if arguments are passed while calling the function, the default arguments are ignored.
+
