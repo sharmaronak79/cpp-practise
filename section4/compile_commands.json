@@ -1,0 +1,17 @@
+[{
+  "file": "D:\\Edu\\CodeLite_WorkSpace\\section5\\First_program\\main.cpp",
+  "directory": "D:\\Edu\\CodeLite_WorkSpace\\section5\\First_program",
+  "command": "C:/MinGW/bin/g++.exe -c D:\\Edu\\CodeLite_WorkSpace\\section5\\First_program\\main.cpp -o D:\\Edu\\CodeLite_WorkSpace\\section5\\First_program\\main.cpp.o -target i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\i686-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Edu\\CodeLite_WorkSpace\\section4\\First_Program\\main.cpp",
+  "directory": "D:\\Edu\\CodeLite_WorkSpace\\section4\\First_Program",
+  "command": "C:/MinGW/bin/g++.exe -c D:\\Edu\\CodeLite_WorkSpace\\section4\\First_Program\\main.cpp -o D:\\Edu\\CodeLite_WorkSpace\\section4\\First_Program\\main.cpp.o -target i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\i686-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Edu\\CodeLite_WorkSpace\\section4\\project2\\main.cpp",
+  "directory": "D:\\Edu\\CodeLite_WorkSpace\\section4\\project2",
+  "command": "C:/MinGW/bin/g++.exe -c D:\\Edu\\CodeLite_WorkSpace\\section4\\project2\\main.cpp -o D:\\Edu\\CodeLite_WorkSpace\\section4\\project2\\main.cpp.o -target i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\i686-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "D:\\Edu\\CodeLite_WorkSpace\\section4\\project1\\main.cpp",
+  "directory": "D:\\Edu\\CodeLite_WorkSpace\\section4\\project1",
+  "command": "C:/MinGW/bin/g++.exe -c D:\\Edu\\CodeLite_WorkSpace\\section4\\project1\\main.cpp -o D:\\Edu\\CodeLite_WorkSpace\\section4\\project1\\main.cpp.o -target i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++ -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\i686-w64-mingw32 -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include\\c++\\backward -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include -IC:\\MinGW\\lib\\gcc\\i686-w64-mingw32\\8.1.0\\include-fixed -IC:\\MinGW\\i686-w64-mingw32\\include -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]
