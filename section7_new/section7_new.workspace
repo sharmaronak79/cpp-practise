@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="section7_new" Database="" Version="10000">
+  <Project Name="project1" Path="project1/project1.project" Active="No"/>
+  <Project Name="exe6" Path="exe6/exe6.project" Active="No"/>
+  <Project Name="challenge" Path="challenge/challenge.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="project1" ConfigName="Debug"/>
+      <Project Name="exe6" ConfigName="Debug"/>
+      <Project Name="challenge" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="project1" ConfigName="Release"/>
+      <Project Name="exe6" ConfigName="Release"/>
+      <Project Name="challenge" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
