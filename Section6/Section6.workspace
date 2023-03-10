@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="Section6" Database="" Version="10000">
+  <Project Name="test1" Path="test1/test1.project" Active="No"/>
+  <Project Name="premetive_datatypes" Path="premetive_datatypes/premetive_datatypes.project" Active="No"/>
+  <Project Name="sizeof_operator" Path="sizeof_operator/sizeof_operator.project" Active="No"/>
+  <Project Name="Constants" Path="Constants/Constants.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="test1" ConfigName="Debug"/>
+      <Project Name="premetive_datatypes" ConfigName="Debug"/>
+      <Project Name="sizeof_operator" ConfigName="Debug"/>
+      <Project Name="Constants" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="test1" ConfigName="Release"/>
+      <Project Name="premetive_datatypes" ConfigName="Release"/>
+      <Project Name="sizeof_operator" ConfigName="Release"/>
+      <Project Name="Constants" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
