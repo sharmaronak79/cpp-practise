@@ -16,9 +16,9 @@ int main(){
 //        cout<<j<<" ";
 //        cot<<endl;
 //        
-//    for(int i{1},j{1};i<=5;++i,++j)
-//        cout<< i <<" + "<<j<< " = " << i+j<<endl;
-//    
+   for(int i{1},j{1};i<=5;++i,++j)
+       cout<< i <<" + "<<j<< " = " << i+j<<endl;
+   
 
 //    for(int i{1};i<=100;i++){
 //        cout<<i;
