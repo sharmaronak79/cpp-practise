@@ -50,7 +50,7 @@ int main(){
                 for(auto v : vec)
                     sum += v;
                 
-                cout<<"mean of the list is : "<<static_cast<double>sum/vec.size();
+                cout<<"mean of the list is : "<<static_cast<double>(sum)/vec.size();
             }
             break;
         case 's':
@@ -60,25 +60,42 @@ int main(){
             }else{
                 int smallest{};
                 smallest=vec.at(0);
-                for(size_t i{0};i<=vec.size();i++){
-                    
-                   if(smallest<vec.at(i+1)){
-                       smallest=vec.at(i);
-                   }else{
-                       smallest=vec.at(i+1);
-                   }
+                for(auto v:vec){
+                  if(v<smallest){
+                      smallest=v;
+                  }
                 }
                 cout<<"The smallest number is "<<smallest;
             }
             break;
+        case 'l':
+        case 'L':
+            if(vec.size()==0){
+                cout<<"Unable to determine the largest number - no data";
+            }else{
+                int largest{};
+                largest=vec.at(0);
+                for(auto v:vec){
+                  if(v>largest){
+                      largest=v;
+                  }
+                }
+                cout<<"The largest number is "<<largest;
+            }
+            break;
+        case 'q':
+        case 'Q':
+            cout<<"Goodbye";
+            break;
          
         default:
+        
             cout<<"Unknown selection, please try again";
     }
     
     }while(!(selection == 'q' || selection == 'Q'));
     
-    cout<<"Goodbye";
+    //cout<<"Goodbye";
         
     return 0;
 }
