@@ -1,4 +1,5 @@
-
+//Good challenge pracrtise
+//Thisn can be done using if else and lader if else, which reduce the code size s well
 #include <iostream>
 #include <vector>
 using namespace std;
