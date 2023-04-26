@@ -2,14 +2,9 @@
 #include <cmath>
 using namespace std;
 
-//----DO NOT MODIFY THE CODE ABOVE THIS LINE----
-//----WRITE YOUR FUNCTION PROTOTYPES BELOW THIS LINE----
 double fahrenheit_to_celsius(double temperature);
 double fahrenheit_to_kelvin(double temperature);
 
-
-//----WRITE YOUR FUNCTION PROTOTYPES ABOVE THIS LINE----
-//----DO NOT MODIFY THE CODE BELOW THIS LINE----
 double fahrenheit_to_celsius(double temperature){
     temperature = (5.0/9.0)*(temperature - 32);
     return round(temperature);
@@ -33,7 +28,15 @@ void temperature_conversion(double fahrenheit_temperature) {
     cout << "The fahrenheit temperature " << fahrenheit_temperature << " degrees is equivalent to " << celsius_temperature << " degrees celsius and " << kelvin_temperature << " degrees kelvin.";
 }
 
-//----DO NOT MODIFY THE CODE ABOVE THIS LINE----
-//----WRITE YOUR FUNCTION DEFINITIONS BELOW THIS LINE----
 
 
+
+
+int main(){
+    cout<<"Hello Ronak"<<endl;
+    double temp_frnht{135.23};
+    temperature_conversion(temp_frnht);
+    cout<<"Fahrenheit temperature in main is : "<<temp_frnht<<endl;
+    
+    return 0;
+}
