@@ -5,7 +5,7 @@
 int main()
 {
     int n,fact,sum=0,r,i,x;
-    printf("Enter Number to check storng or not : ");
+    printf("Enter Number to check Storng or Not : ");
     scanf("%d",&n);
     x=n;
     
