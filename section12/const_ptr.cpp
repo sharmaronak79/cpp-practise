@@ -5,12 +5,12 @@
 using namespace std;
 
 void display(const vector <string> *const v){
-    //(*v).at(0)="Jwal";
+    //(*v).at(0)="Jwal"; // this is not allowed as it is also a constant
     for(auto string : *v){
         cout<<string << " ";
     }
 
-    //v=nullptr;
+    //v=nullptr;  //This will give an error as it is a constant
 }
 
 void Display_Num(int *array, int sentinel){
