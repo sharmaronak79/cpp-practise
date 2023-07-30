@@ -20,9 +20,12 @@ bool is_dead();
 
 class Account{
     //Attributes
-    
+    string name;
+    double balance;
 
     //Method
+    bool deposit(double);
+    bool withdraw(double);
 };
 
 int main(){
