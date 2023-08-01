@@ -39,7 +39,17 @@ int main(){
     frank.xp=12;
     frank.talks("How are you ?");
 
-    
+    Player *enemy = new Player;
+    //One way to access members
+    (*enemy).name="Rohit";
+    (*enemy).health=90;
+    (*enemy).xp=13;
+    (*enemy).talks("I am First Player");
+
+    //Another Way toaccess members
+    enemy->name="Virat";
+    enemy->health=100;
+    enemy->talks("I am an athelet");
 
 
     return 0;
