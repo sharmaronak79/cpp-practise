@@ -40,13 +40,13 @@ int main(){
     frank.talks("How are you ?");
 
     Player *enemy = new Player;
-    //One way to access members
+    //One way to access members using pointer to class
     (*enemy).name="Rohit";
     (*enemy).health=90;
     (*enemy).xp=13;
     (*enemy).talks("I am First Player");
 
-    //Another Way toaccess members
+    //Another Way toaccess members using pointer to class
     enemy->name="Virat";
     enemy->health=100;
     enemy->talks("I am an athelet");
